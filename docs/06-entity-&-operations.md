@@ -78,9 +78,10 @@ It is important to note that not all core protocol maintainers are part of Proto
 Ethereum's rollup-centric roadmap saw huge payoffs in 2024. The [Dencun upgrade](https://blog.ethereum.org/2024/02/27/dencun-mainnet-announcement) launched in March 2024, reducing L2 gas fees by 10-100x. This was achieved through the introduction of ephemeral data blobs (EIP-4844 or "proto-danksharding"), which can be utilized for data availability instead of calldata. Since the Dencun upgrade, we have seen onchain costs plummet (over [$380mm blob fee savings](https://dune.com/queries/3583807/6035165) to date), alongside a significant uptick in onchain activity. Rollups are Ethereum, and users on rollups are Ethereum users, so this is very encouraging progress!
 
 ![Onchain Costs](https://github.com/user-attachments/assets/aaafeddc-2387-4bce-8ec3-cca62424dc4b)
-https://l2beat.com/scaling/costs
+<small>[https://l2beat.com/scaling/costs](https://l2beat.com/scaling/costs)</small>
+
 ![Daily Average](https://github.com/user-attachments/assets/955d1af5-d320-41d1-a956-4ac7c6d7b09b)
-https://l2beat.com/scaling/activity
+<small>[https://l2beat.com/scaling/activity](https://l2beat.com/scaling/activity)</small>
 
 ##### Pectra
 
@@ -95,8 +96,9 @@ You can read more about Ethereum's core protocol development in 2024 and 2025 in
 #### Membership
 
 At the start of 2024, Protocol Guild had 161 members, concluding the year with [187](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#active-members). This increase resulted from the addition of 41 new members and the removal of 15. Of the 187 members, 154 (83%) were engaged in Ethereum's core protocol work on a full-time basis, while the rest (15 members or 17%) contributed on a part-time basis.
+
 ![Membershio](https://github.com/user-attachments/assets/e916aeb2-6dbf-408c-8f47-534ce7e95208)
-https://dune.com/queries/2665887/4430654?sidebar=none
+<small>[https://dune.com/queries/2665887/4430654?sidebar=none](https://dune.com/queries/2665887/4430654?sidebar=none)</small>
 
 As during the pilot, [self-curation](https://protocol-guild.readthedocs.io/en/latest/02-membership.html#self-curation) was at the heart of any membership changes, i.e. Protocol Guild members themselves coming to consensus on who to add or remove from the membership. To minimize governance overhead, self-curation was split into first curating a list of [eligible teams or projects](https://protocol-guild.readthedocs.io/en/latest/01-eligibility.html#eligibility), after which individuals from those teams / projects can be admitted.
 
@@ -131,7 +133,7 @@ We quickly saw tremendous buy-in, with many different projects across the ecosys
 Incredibly, the donations from three projects alone - [Ether.fi](https://etherscan.io/tx/0xf15494110be78893cb5c60f4c7fc83372f15a1f602ba513ab3cf7e259516c0a4), [Taiko](https://etherscan.io/tx/0x171e22e62d3a8a176de0d0ad60284b9baa56895b662e51a60fc2153bb797709a) and [EigenLayer](https://etherscan.io/tx/0x202bd787112a227293e55931c4f99c1e20791782d8609ecfbbcbc75393884e8f) - totalled almost $150mm (valued at time of donation). While this sets a high benchmark, we believe that the monetary value of pledges is less critical than establishing the norm itself. Some projects that take the pledge will succeed, while others may not, but the goal is to expose Ethereum's core maintainers to the value being generated within the ecosystem. This can only happen if we create a norm where all projects building on Ethereum donate 1% of their token supply to Protocol Guild. Without this ecosystem-wide buy-in, Protocol Guild may struggle to scale its fundraising efforts, relying solely on proactive fundraising from a small number of operations contributors. We are incredibly grateful to all our pledgeoors for their leadership in establishing these norms in 2024 and look forward to onboarding new ones in 2025! If you are a project that is considering taking the pledge, please reach out to us on [Twitter](https://x.com/ProtocolGuild) or [Discord](https://discord.com/invite/HaUhXYsMyC), so we can do our part in celebrating your pledge.
 
 ![Pledges](https://github.com/user-attachments/assets/e33a6047-c90c-4dfb-9f60-32682a828dea)
-https://dune.com/queries/3428807?sidebar=none
+<small>[https://dune.com/queries/3428807?sidebar=none](https://dune.com/queries/3428807?sidebar=none)</small>
 
 Of course not all projects have tokens to pledge! We were once again amazed by the creativity of projects contributing a portion of their **NFT** or **POAP** sales to Protocol Guild, including [Moving Mondrians](https://x.com/davidryan59/status/1744248815551709224), [Uni Zorb](https://zora.co/collect/zora:0x7e8f28a51471a9a434505ac58ded39c422e73028/1), [Delivery at Dawn](https://stateful.mirror.xyz/DjDK5IqoZOtel8t2pn_DE0WLQEdNXLIEMuD0bNZKR8M), [ETH Investors Club magazine](https://x.com/EICquarterly/status/1773744620054462493), [Bitwise TV spot](https://x.com/BitwiseInvest/status/1803798912114770091), [Ethereum Stories](https://x.com/EthereumFilm/status/1815779118262137224), [Goodbye for Now Danny](https://x.com/superphiz/status/1839023705545957412), [Collectr November Edition](https://x.com/collectrs/status/1849875289775501727) and [$4k](https://x.com/superphiz/status/1865079286283059311).
 
@@ -156,7 +158,7 @@ We also created a [chart](https://dune.com/queries/4115750/6930070?sidebar=none)
 This brings us to our final and - in our opinion - most important fundraising metric: the **median vesting per Protocol Guild member over the next 12 months**. At the time of writing, Protocol Guild members can expect to receive ~$77k from Protocol Guild over the next 12 months. However, this amount is highly volatile, as it represents a basket of tokens whose values fluctuate with market conditions. For instance, in [late December](https://x.com/TimBeiko/status/1869738647806992500), the median amount vesting per member was $170k. This volatility highlights the importance of diversifying our funding sources and underscores the necessity of ongoing fundraising efforts, especially considering that funds raised during a "bull market" will hold significantly less value in a "bear market." To ensure that Ethereum's core maintainers can rely on Protocol Guild as their primary source of income, it is essential to establish a dependable financial floor.
 
 ![Median Vest](https://github.com/user-attachments/assets/e9eaebf1-a35d-4ae9-81ef-a14555eaeba5)
-https://dune.com/queries/4115750/6930070?sidebar=none
+<small>[https://dune.com/queries/4115750/6930070?sidebar=none](https://dune.com/queries/4115750/6930070?sidebar=none)</small>
 
 Looking ahead to 2025, we believe that achieving a median of approximately $300k per member by the end of 2025 is a reasonable target. But of course, we can only do so with the support of Ethereum's ecosystem. If you have questions about the Protocol Guild Pledge or otherwise donating to Protocol Guild, please reach out on [Twitter](https://x.com/ProtocolGuild) or [Discord](https://discord.com/invite/HaUhXYsMyC)!
 
@@ -182,7 +184,9 @@ In 2025, we plan to continue all of the above marketing efforts, but we'll put a
 Alongside our announcement of the Protocol Guild Pledge at the start of 2024, we also deployed a new [4-year vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/), replacing the [1-year vesting contract](https://app.splits.org/accounts/0x25941dc771bb64514fc8abbce970307fb9d477e9/) used during our pilot. The reasoning behind this change is simple: anyone familiar with Ethereum's [core protocol development roadmap](https://www.youtube.com/watch?v=8mJDt8TGebc) knows that the next few years will be absolutely critical for Ethereum, and a 4-year vesting period provides strong incentives for Ethereum's core maintainers - who may change over time - to continue their vital work. Additionally, this vesting period aligns with industry norms, such as employee stock options and token grants, and assures donors that their funding will support both current and future active core protocol contributors over the long term. While this extended vesting period means we need to raise four times as much to match the 1-year vesting, our fundraising efforts in 2024 demonstrated a strong appetite within the Ethereum ecosystem to fund Ethereum's core protocol work.
 
 Apart from the change in vesting duration, our current smart contract architecture (second picture below side) looks relatively similar to our pilot (first picture below):
+
 ![PG Pilot](https://github.com/user-attachments/assets/b3d04fbe-d30e-4376-a3c3-bbe7bfda745d)
+
 ![PGv2](https://github.com/user-attachments/assets/8c946e79-ceb5-46e3-b710-ba030cace8ba)
 
 Here's a summary of the key changes:
